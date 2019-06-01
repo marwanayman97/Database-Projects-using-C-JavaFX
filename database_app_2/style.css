@@ -1,0 +1,53 @@
+#adduser{
+     -fx-background-color: #006400;
+}
+
+#adduser:hover{
+    -fx-background-color: green;
+
+}
+
+#getuserdata{
+    -fx-background-color:  #daa520;
+}
+
+#getuserdata:hover{
+    -fx-background-color:  #f0ad4e;
+}
+
+#gettripdata{
+     -fx-background-color: #008080;
+}
+
+#gettripdata:hover{
+     -fx-background-color: #00cccc;
+}
+
+#gettripdetails{
+    -fx-background-color: #d9534f;
+}
+
+#gettripdetails:hover{
+    -fx-background-color: #a72925;
+}
+
+#getinstdetails{
+    -fx-background-color:  #5bc0de;
+}
+
+#getinstdetails:hover{
+    -fx-background-color:  #1e7994;
+}
+
+#dbconnect{
+     -fx-background-color: #6495ed;
+}
+
+#dbconnect:hover{
+     -fx-background-color: #bbd0f7;
+}
+
+#clr:hover{
+     -fx-background-color: red;
+     -fx-text-fill: white;
+}
